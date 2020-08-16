@@ -1,5 +1,5 @@
 # bludit-viewerjs
-Page gallery based on the Viewer.js v1.3.2 by Fengyuan Chen
+Page gallery based on the Viewer.js v1.6.1 by Fengyuan Chen
 https://fengyuanchen.github.io/viewerjs/
 
 ## Usage
